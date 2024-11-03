@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Aldo Alfiansyah</h1>
-<h3 align="center">Frontend Developer</h3>
+### Hi there 👋 I'm Aldo Alfiansyah
 
-- 👨‍💻 All of my projects are available at [https://aldoalfians.vercel.app/](https://aldoalfians.vercel.app/)
+- 🔭 I’m currently working as a Frontend Developer
+- 🌱 Currently learning: Go & Flutter
+- 📫 How to reach me: you can find more about me at https://aldoalfians.vercel.app/
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aldoalfians/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aldoalfians/" height="30" width="40" /></a>
-</p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldoalfians&show_icons=true&locale=en&layout=compact" alt="aldoalfians" /></p>
+<a href="https://github.com/aldoalfians"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldoalfians&layout=compact&theme=vue&hide_border=true&langs_count=8&count_private=true" /></a> 
+
+---
+### Streak Stats
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aldoalfians&theme=default&date_format=M%20j%5B%2C%20Y%5D)
